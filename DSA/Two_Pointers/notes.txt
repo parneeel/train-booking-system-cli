@@ -1,0 +1,11 @@
+Array/Linked List ka question hoga
+
+Sorted data/ sorted se easy hota
+
+merge/remove duplicate/rearrange
+
+linked list -- detect cycle
+
+pair/triplets/quadruples 
+
+Sorted wale me hi kar
