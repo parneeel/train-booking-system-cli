@@ -1,6 +1,3 @@
-# train-booking-system-cli
-Java console app for train booking — OOP, Streams, JSON parsing, BCrypt | Built without a framework
-
 # Train Booking System (CLI)
 
 A Java-based console application inspired by an online railway reservation system. Built to practice core Java backend concepts such as OOP, Collections, JSON persistence, file handling, password hashing, and exception handling.
